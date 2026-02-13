@@ -13,8 +13,6 @@ A Django-based web application that integrates IoT sensor data from ThingSpeak w
 
 ## 📊 Dashboard Preview
 
-![Smart Farming Dashboard](screenshots/dashboard.png)
-
 The dashboard displays:
 - 💧 Soil Moisture (%)
 - 🌡️ Temperature (°C)
